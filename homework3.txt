@@ -8,7 +8,3 @@ while (index < size)
     index = index + 1
 avg = sum/size
 print (avg)
-
-Всем привет!
-
-Я снова здесь!
