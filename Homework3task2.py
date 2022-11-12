@@ -12,3 +12,4 @@ while index < len(numbers):
     index = index + 1
 print (count_maximal)
 print ("Andrei did everything right")
+print ('Красавчик просто!')
